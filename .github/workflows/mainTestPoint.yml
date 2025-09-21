@@ -1,0 +1,24 @@
+	Githubaction we use with in github-We can not got outside like,build,issue,create	
+Demo
+ Step 1-:Sign up Login github.com
+Ste2-:Create a new rep/or repository url-: https://github.com/arjune221105/LearningGitHubActions.git
+Step 3-:In the repo create a folder.github/workflows(folder)
+Step4-: set up a workflow yourself / demo1Shakti.yml
+Step5-:Int the folder create yml file .yml
+https://gist.github.com/weibeld/f136048d0a82aacc063f42e684e3c494
+yml file -:systex and spacing very imp …you can go https://codebeautify.org/yaml-beautifier
+Step6-:Add the workflow content in the file
+Step7-:commint and push the changes
+Step8-:Go to main page of repository  and go to “actions”
+Step9-:Select the workflow from left side and check the logs and results
+Terms-:
+Workflow-:Collection of jobs,defined in a yml file
+He will define name Key-:
+Events-:any activity in the repo that can trigger a workflow
+On:,like pull,push
+Jobs:
+Insde we can make multiple jobs:
+Steps-:Actions, to be takesn commands,scripts
+Sptes:
+Cheained jobs-:needs:parallel run,concact…
+..Selenium Interview Quations-:
